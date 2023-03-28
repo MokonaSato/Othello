@@ -14,13 +14,13 @@ OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode)
 
 ## 構成例
 . (root)
-      - bin
-      - src
-            - app
-                  - Board.java
-                  - Stone.java
-                  - Player.java
-                  - Main.java
+┣ bin/
+┣ src/
+   ┣ app/
+      ┣ Board.java
+      ┣ Stone.java
+      ┣ Player.java
+      ┣ Main.java
 
 ## 使い方
 1. Eclipseで新しいJavaプロジェクトを立ち上げます。
