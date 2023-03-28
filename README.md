@@ -8,9 +8,9 @@ This is Othello that can be played with CLI.
 Javaです。バージョンは以下の通りです。
 These programs are written in Java. The versions are as follows:
 
-openjdk version "17.0.6" 2023-01-17
-OpenJDK Runtime Environment Temurin-17.0.6+10 (build 17.0.6+10)
-OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode)
+- openjdk version "17.0.6" 2023-01-17
+- OpenJDK Runtime Environment Temurin-17.0.6+10 (build 17.0.6+10)
+- OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode)
 
 ## 使い方の例
 1. Eclipseで新しいJavaプロジェクトを立ち上げます。
