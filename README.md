@@ -18,5 +18,5 @@ OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode)
 3. 2で作ったパッケージの直下にBoard.Java, Stone.java, Player.java, Main.javaを配置してください。
 
 オセロをターミナルで動かす場合
-4. 2で作ったパッケージのディレクトリ内に入り、```javac *.java```コマンドでコンパイルします。
-5. ```cd ..```コマンドでsrcディレクトリに戻り、```java app/Main```で起動します。
+2で作ったパッケージのディレクトリ内に入り、```javac *.java```コマンドでコンパイルします。
+```cd ..```コマンドでsrcディレクトリに戻り、```java app/Main```で起動します。
