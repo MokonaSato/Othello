@@ -14,8 +14,8 @@ These programs are written in Java. The versions are as follows:
 
 ## 使い方の例
 1. Eclipseで新しいJavaプロジェクトを立ち上げます。
-2. src以下にパッケージを作ります。
-3. 2で作ったパッケージの直下にBoard.Java, Stone.java, Player.java, Main.javaを配置してください。
+2. src以下にパッケージを作ります(ここではパッケージ名をappとします)。
+3. 2で作ったパッケージの直下(つまりappディレクトリの中)にBoard.Java, Stone.java, Player.java, Main.javaを配置してください。
 
 ### オセロをターミナルで動かす場合
 2で作ったパッケージのディレクトリ内に入り、```javac *.java```コマンドでコンパイルします。
