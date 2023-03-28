@@ -18,5 +18,5 @@ These programs are written in Java. The versions are as follows:
 3. 2で作ったパッケージの直下(つまりappディレクトリの中)にBoard.Java, Stone.java, Player.java, Main.javaを配置してください。
 
 ### オセロをターミナルで動かす場合
-2で作ったパッケージのディレクトリ内に入り、```javac *.java```コマンドでコンパイルします。
-```cd ..```コマンドでsrcディレクトリに戻り、```java app/Main```で起動します。
+1. appディレクトリ内に入り、```javac *.java```コマンドでコンパイルします。
+2. ```cd ..```コマンドでsrcディレクトリに戻り、```java app/Main```で起動します。
