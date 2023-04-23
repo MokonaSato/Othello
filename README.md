@@ -1,10 +1,10 @@
 # Othello
 
-## 概要
-CLIで遊べるオセロです。
-This is Othello that can be played with CLI.
+## 概要 (Overview)
+Javaで記述したオセロです。CUI版とGUI版があります。
+This is Othello written in Java. There are both CUI and GUI versions available.  
 
-## 使用言語
+## 使用言語 (Language)
 Javaです。バージョンは以下の通りです。
 These programs are written in Java. The versions are as follows:
 
@@ -12,11 +12,24 @@ These programs are written in Java. The versions are as follows:
 - OpenJDK Runtime Environment Temurin-17.0.6+10 (build 17.0.6+10)
 - OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode)
 
-## 使い方の例
-1. Eclipseで新しいJavaプロジェクトを立ち上げます。
-2. src以下にパッケージを作ります(ここではパッケージ名をappとします)。
-3. 2で作ったパッケージの直下(つまりappディレクトリの中)にBoard.Java, Stone.java, Player.java, Main.javaを配置してください。
+## 使い方の例 (Usage)
+`git clone https://github.com/MokonaSato/Othello.git`でカレントディレクトリにダウンロードします。
+Please use code `git clone https://github.com/MokonaSato/Othello.git` to download files to the current directory.
 
-### オセロをターミナルで動かす場合
-1. appディレクトリ内に入り、```javac *.java```コマンドでコンパイルします。
-2. ```cd ..```コマンドでsrcディレクトリに戻り、```java app/Main```で起動します。
+### GUI版
+```
+cd Othello/src/GUI
+javac *
+cd..
+java GUI/Main
+```
+
+### CUI版
+```
+cd Othello/src/CUI
+javac *
+cd..
+java CUI/Main
+```
+## 使用規約 (License)
+The source code is licensed MIT, see LICENSE.
