@@ -1,4 +1,6 @@
 # Othello
+![GUI_Othello](https://user-images.githubusercontent.com/96382314/233816998-26f38493-9ffc-4bce-baae-a9e89bb3b306.gif)
+
 
 ## 概要 (Overview)
 Javaで記述したオセロです。CUI版とGUI版があります。
@@ -12,11 +14,13 @@ These programs are written in Java. The versions are as follows:
 - OpenJDK Runtime Environment Temurin-17.0.6+10 (build 17.0.6+10)
 - OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode)
 
+- Swing
+
 ## 使い方の例 (Usage)
 `git clone https://github.com/MokonaSato/Othello.git`でカレントディレクトリにダウンロードします。
 Please use code `git clone https://github.com/MokonaSato/Othello.git` to download files to the current directory.
 
-### GUI版
+### GUI版 (GUI version)
 ```
 cd Othello/src/GUI
 javac *
@@ -24,7 +28,7 @@ cd..
 java GUI/Main
 ```
 
-### CUI版
+### CUI版 (CUI version)
 ```
 cd Othello/src/CUI
 javac *
