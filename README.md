@@ -1,5 +1,5 @@
 # Othello
-![GUI_Othello_short](https://user-images.githubusercontent.com/96382314/233820202-36cbf521-b48b-4fbe-ab9e-abc1b7009392.gif)
+![make_gif_half](https://user-images.githubusercontent.com/96382314/235183986-fb55e5ba-0910-4eaa-89c1-0788047b16a1.gif)
 
 
 ## 概要 (Overview)
